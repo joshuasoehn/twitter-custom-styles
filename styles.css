@@ -1,0 +1,75 @@
+.AdaptiveMedia {
+    max-width: 800px;
+    width: 100%;
+}
+
+.ProfileHeading-content, .timeline-tweet-box {
+    border: 0;
+    border-radius: 0;
+}
+
+.ProfilePage, body {
+    background-color: #fff;
+}
+
+.ProfileSidebar--withRightAlignment {
+    display: none;
+}
+
+.RichEditor {
+    border-color: #ddd;
+}
+
+.TweetTextSize {
+    font-family: Georgia, serif;
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+.global-nav .form-search {
+    width: 200px;
+}
+
+.home-tweet-box {
+    background: #fff;
+    padding: 10px 0;
+}
+
+.nav>li>a .text {
+    display: none;
+}
+
+.permalink {
+    background-color: #fff;
+    padding: 20px;
+}
+
+.stream-item:not(.no-header-background-module) {
+    border: none;
+}
+
+.top-timeline-tweet-box-user-image {
+    left: 0px;
+}
+
+.top-timeline-tweetbox .timeline-tweet-box .t1-form {
+    margin-left: 55px;
+}
+
+.tweet {
+    padding: 15px 0;
+}
+
+div#timeline {
+    float: none;
+    margin: 0 auto;
+    width: 800px;
+}
+
+div.dashboard.dashboard-left {
+    display: none;
+}
+
+div.dashboard.dashboard-right {
+    display: none;
+}
