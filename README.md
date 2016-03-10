@@ -1,4 +1,7 @@
-# twitter-custom-styles
+# Twitter Custom Styles
+
+![](https://d13yacurqjgara.cloudfront.net/users/13314/screenshots/2573297/attachments/511045/feed.png)
+
 A custom stylesheet for Twitter.com for Stylebot.
 
 1. Install [Stylebot](https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha)
